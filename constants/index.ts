@@ -74,23 +74,21 @@ export const icons = {
 export const onboarding = [
   {
     id: 1,
-    title: "The perfect ride is just a tap away!",
-    description:
-      "Your journey begins with Ryde. Find your ideal ride effortlessly.",
+    title: "Manage Your Salon or Parlor",
+    description: "Take control of your bookings and services, all in one app.",
     image: images.onboarding1,
   },
   {
     id: 2,
-    title: "Best car in your hands with Ryde",
-    description:
-      "Discover the convenience of finding your perfect ride with Ryde",
+    title: "Simplify Your Scheduling",
+    description: "Easily handle appointments for all your services.",
     image: images.onboarding2,
   },
   {
     id: 3,
-    title: "Your ride, your way. Let's go!",
+    title: "Track Your Performance",
     description:
-      "Enter your destination, sit back, and let us take care of the rest.",
+      "Get insights on bookings and services to help your business thrive.",
     image: images.onboarding3,
   },
 ];
