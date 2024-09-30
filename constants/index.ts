@@ -87,8 +87,7 @@ export const onboarding = [
   {
     id: 3,
     title: "Track Your Performance",
-    description:
-      "Get insights on bookings and services to help your business thrive.",
+    description: "Get insights on bookings and services for your business.",
     image: images.onboarding3,
   },
 ];
