@@ -31,6 +31,8 @@ import onboarding1 from "@/assets/images/onboarding1.png";
 import onboarding2 from "@/assets/images/onboarding2.png";
 import onboarding3 from "@/assets/images/onboarding3.png";
 import signUpHero from "@/assets/images/sign-up-hero.jpg";
+import timeline from "@/assets/icons/timeline.png";
+import feed from "@/assets/icons/feed.png";
 
 export const images = {
   onboarding1,
@@ -69,6 +71,8 @@ export const icons = {
   star,
   target,
   to,
+  timeline,
+  feed,
 };
 
 export const onboarding = [
